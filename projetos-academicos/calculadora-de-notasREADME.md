@@ -8,7 +8,7 @@ Execute o script `calculadora_notas.py` no terminal. Ele solicitará três notas
 
 ## Exemplo de saída
 
-Calculadora de Notas
+Calculadora de Notas:
 
 Primeira Nota: 7
 
