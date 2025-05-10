@@ -11,7 +11,11 @@ Execute o script `calculadora_notas.py` no terminal. Ele solicitará três notas
 Calculadora de Notas
 
 Primeira Nota: 7
+
 Nota 2: 6
+
 Nota 3: 8
+
 Nota Final: 7.0
+
 Média: 7.00
