@@ -8,3 +8,7 @@ Cada projeto inclui:
 - Histórico de commits versionado com Git
 
 ## Projetos incluídos
+
+Calculadora de notas
+
+Boletim Final
