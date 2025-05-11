@@ -8,3 +8,7 @@ Eles podem envolver:
 - Projetos de portfólio
 
 ## Projetos incluídos
+
+Classificador de Número
+
+Fahrenheit para Celsius
